@@ -1,7 +1,7 @@
 name: VisuaLegal
 favicon: null
-layout_spectrum: 0.07945062522776425
-typography_spectrum: 0.6241992751602083
+layout_spectrum: 0.5349
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5330283343791962
-  lightness: 0.27003497653640807
+    - '#e1e8f0'
+    - '#1f0052'
+    - '#678db2'
+    - '#a6a1c0'
+    - '#513c7a'
+  brandStrength: 0.625
+  lightness: 0.3125
   saturation: 0.8261584653519094
-  rhythmicContrast: 0.56988306180574
+  rhythmicContrast: 0.75
 purpose: []
